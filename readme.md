@@ -16,5 +16,5 @@ Antonio Marquina.
 
 <!-- Links -->
 
-[Platform]:https://img.shields.io/badge/platform-W11-lightgrey.svg
+[Platform]:https://img.shields.io/badge/platform-W10-lightgrey.svg
 [License]:https://img.shields.io/badge/license-FREE-383838.svg
